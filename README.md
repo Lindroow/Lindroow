@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Lisandro</h1>
-<h3 align="center">Soy GameDeveloper</h3>
+<h3 align="center">🕹Soy GameDeveloper🕹</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://lisandrorodriguez.itch.io](https://lisandrorodriguez.itch.io)
 
