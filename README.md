@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Lisandro</h1>
 <h3 align="center">Soy GameDeveloper</h3>
 
-- 👨‍💻 All of my projects are available at [https://lisandrorodriguez.itch.io](https://lisandrorodriguez.itch.io)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://lisandrorodriguez.itch.io](https://lisandrorodriguez.itch.io)
 
 - 📫 Puedes contactarme en **rodriguezlisandrofabian@gmail.com**
 
